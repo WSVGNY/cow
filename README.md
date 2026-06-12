@@ -2,4 +2,4 @@
 
 A cow for your macos desktop, made with Claude.
 
-![cow](docs/10-app.png)
+![cow](docs/10-final.png)
