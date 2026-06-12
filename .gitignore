@@ -5,7 +5,6 @@ Cow.icns
 CowWidget
 upscale
 make-icon
-upscale.swift
 
 # macOS
 .DS_Store
