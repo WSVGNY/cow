@@ -1,0 +1,11 @@
+# Build artifacts
+Cow.app/
+Cow.iconset/
+Cow.icns
+CowWidget
+upscale
+make-icon
+upscale.swift
+
+# macOS
+.DS_Store
